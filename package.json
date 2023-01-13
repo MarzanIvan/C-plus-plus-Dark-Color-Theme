@@ -1,0 +1,21 @@
+{
+  "name": "cplusplus-color-theme",
+  "displayName": "@C++ColorTheme",
+  "description": "color theme for c plus plus",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Marzan I.",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Marzan I.-color-theme.json"
+      }
+    ]
+  }
+}
